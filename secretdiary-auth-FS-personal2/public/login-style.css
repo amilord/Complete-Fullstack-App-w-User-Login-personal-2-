@@ -1,0 +1,22 @@
+h1 {
+  font-size: 5rem;
+  font-family: 'Lobster', cursive;
+}
+
+.container .jumbotron h1{
+  font-size: 10rem;
+  color: rgb(182, 144, 221);
+}
+
+.container .jumbotron p {
+  font-size: 3.5rem;
+  color:black;
+  font-family: 'Lobster', cursive;
+}
+
+.container .jumbotron a {
+  height: 40px;
+  width: 100px;
+  font-size: 1.8rem;
+  font-family: 'Lobster', cursive;
+}
